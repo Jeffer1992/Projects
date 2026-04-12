@@ -22,9 +22,11 @@ Physical reorganization of the communication rack and logical reconfiguration of
 
 ### Evidences:
 
-!\[Network Config](./img/rack.jpeg)
+### Evidences:
 
-!\[Network Config](./img/Dinstar.jpeg)
+![Network Config](./img/rack.jpeg)
+![Network Config](./img/Dinstar.jpeg)
+
 *(Sensitive data such as Public IPs and MAC addresses have been redacted).*
 
 \---
